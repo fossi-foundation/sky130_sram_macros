@@ -45,8 +45,8 @@ X10 GND GND BL1 GND sky130_fd_pr__special_nfet_latch w=0.21u l=0.08u m=1
 X11 GND GND BR1 GND sky130_fd_pr__special_nfet_latch w=0.21u l=0.08u m=1
 
 * drainOnly PMOS
-X12 Q_bar WL1 Q_bar VDD sky130_fd_pr__special_pfet_latch W=0.07u L=0.15u m=1
-X13 Q WL0 Q VDD sky130_fd_pr__special_pfet_latch W=0.07u L=0.15u m=1
+X12 Q_bar WL1 Q_bar VDD sky130_fd_pr__special_pfet_latch W=0.14u L=0.08u m=1
+X13 Q WL0 Q VDD sky130_fd_pr__special_pfet_latch W=0.14u L=0.08u m=1
 
 * drainOnly NMOS
 X14 GND GND BL1 GND sky130_fd_pr__special_nfet_latch w=0.21u l=0.08u m=1
@@ -17249,8 +17249,8 @@ X10 GND GND BL1 GND sky130_fd_pr__special_nfet_latch w=0.21u l=0.08u m=1
 X11 GND GND BR1 GND sky130_fd_pr__special_nfet_latch w=0.21u l=0.08u m=1
 
 * drainOnly PMOS
-X12 Q WL0 Q VDD sky130_fd_pr__special_pfet_latch w=0.07u l=0.15u m=1
-X13 VDD WL1 VDD VDD sky130_fd_pr__special_pfet_latch w=0.07u l=0.15u m=1
+X12 Q WL0 Q VDD sky130_fd_pr__special_pfet_latch w=0.14u l=0.08u m=1
+X13 VDD WL1 VDD VDD sky130_fd_pr__special_pfet_latch w=0.14u l=0.08u m=1
 
 * drainOnly NMOS
 X14 GND GND BL1 GND sky130_fd_pr__special_nfet_latch w=0.21u l=0.08u m=1
