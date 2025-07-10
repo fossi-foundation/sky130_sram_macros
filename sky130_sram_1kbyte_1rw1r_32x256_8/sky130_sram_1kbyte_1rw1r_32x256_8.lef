@@ -7,6 +7,7 @@ UNITS
 END UNITS
 MACRO sky130_sram_1kbyte_1rw1r_32x256_8
    CLASS BLOCK ;
+   FOREIGN sky130_sram_1kbyte_1rw1r_32x256_8 ;
    SIZE 479.78 BY 397.5 ;
    SYMMETRY X Y R90 ;
    PIN din0[0]
